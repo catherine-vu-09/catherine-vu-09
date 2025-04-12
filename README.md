@@ -15,7 +15,13 @@
 </p>
 <h3>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋</h3>
 
+ೃ⁀➷˚₊· ͟͟͞͞➳❥˚₊· ͟𝐓𝐨𝐨𝐥𝐬!
 
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+ <h3>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋</h3>
+ 
 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐅𝐨𝐫 𝐑𝐞𝐚𝐝𝐢𝐧𝐠!ദ്ദി(｡•̀ ,<)~✩‧₊
 
 <h4></h4>
