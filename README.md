@@ -13,7 +13,6 @@
   <a href="https://github.com/search?q=user%3Acatherine-vu-09+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Acatherine-vu-09+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
 </p>
-<h3>  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋  ‧₊ ˚  ⊹ ࣭ ⭑ .</h3>
 
 ೃ⁀➷˚₊· ͟͟͞͞➳❥˚₊· ͟𝐓𝐨𝐨𝐥𝐬!
 
